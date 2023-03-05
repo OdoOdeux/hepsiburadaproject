@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T18:54:43.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="tZeeh7kwWtZ3qCqnop4O" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T18:56:07.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="cXk4C3i7nVFgl9ctLr7Q" version="21.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,13 +19,13 @@
             <mxPoint x="509" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="07Z04fuiSp5d0RjuKBhp-3" value="Kullanıcı" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="07Z04fuiSp5d0RjuKBhp-3" value="Kullanıcı" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="489" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="07Z04fuiSp5d0RjuKBhp-4" value="Admin" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="07Z04fuiSp5d0RjuKBhp-4" value="Admin" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="219" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="07Z04fuiSp5d0RjuKBhp-5" value="Satıcı" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="07Z04fuiSp5d0RjuKBhp-5" value="Satıcı" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="354" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="07Z04fuiSp5d0RjuKBhp-6" value="Back-end" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
